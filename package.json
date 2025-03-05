@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.6",
-    "@tanstack/react-router": "^1.112.0",
+    "@tanstack/react-router": "^1.112.13",
     "@tanstack/router-devtools": "^1.112.0",
     "@tanstack/router-plugin": "^1.112.0",
     "class-variance-authority": "^0.7.1",
